@@ -1,5 +1,13 @@
 ## Welcome to GitHub Pages
 
+[在线正则表达式工具regexr](https://regexr.com/)
+
+[检查素数的正则表达式](https://coolshell.cn/articles/2704.html)
+
+[求解一次方程的正则表达式](http://blog.stevenlevithan.com/archives/algebra-with-regexes)
+
+[JSON在线解析](https://www.json.cn/)
+
 You can use the [editor on GitHub](https://github.com/zhzhy343/pages/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
