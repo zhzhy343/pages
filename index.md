@@ -8,6 +8,8 @@
 
 [JSON在线解析](https://www.json.cn/)
 
+[图片背景消除](https://www.remove.bg/zh/)
+
 You can use the [editor on GitHub](https://github.com/zhzhy343/pages/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
