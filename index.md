@@ -2,6 +2,9 @@
 
 [在线正则表达式工具regexr](https://regexr.com/)
 
+[正则表达式可视化工具 Regulex](https://jex.im/regulex/)
+[Regulex github](https://github.com/CJex/regulex)
+
 [检查素数的正则表达式](https://coolshell.cn/articles/2704.html)
 
 [求解一次方程的正则表达式](http://blog.stevenlevithan.com/archives/algebra-with-regexes)
